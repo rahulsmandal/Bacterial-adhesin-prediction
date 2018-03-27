@@ -14,3 +14,8 @@ The output of the given example file, sequence.fasta will be as follows -
 0 ----> 0.01 >Sample2
 
 Where 1 denots adhesin and 0 denotes non-adhesin. Corresponding vaules are the respective adhesin probability values.
+
+
+The online version of this program is available in the following link -
+
+http://93.188.161.118/adhesin/
